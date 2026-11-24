@@ -1,0 +1,17 @@
+{
+  "name": "Викторина — космическая экспедиция",
+  "short_name": "Викторина",
+  "description": "1246 вопросов на 8 темах и 3 уровнях сложности",
+  "lang": "ru",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B0A2A",
+  "theme_color": "#0B0A2A",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
