@@ -1,8 +1,8 @@
 // Сгенерировано tools/build-web.js — не править вручную.
-const CACHE = 'victorina-04f1f1a344f8';
+const CACHE = 'victorina-534cad9717ca';
 const FILES = [
   "./",
-  "./_expo/static/js/web/index-2517e44de90272ba5c88ae7626c1dd9f.js",
+  "./_expo/static/js/web/index-b6bed1c1afb634be69cd8e7a38f63ea4.js",
   "./apple-touch-icon.png",
   "./assets/assets/sounds/correct.d3f0e4f8f4c407293a17ae3b20a99e9b.wav",
   "./assets/assets/sounds/select.79a2c021488aa4f984ec703ec9afed2a.wav",
